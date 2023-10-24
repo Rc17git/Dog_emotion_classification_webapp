@@ -39,6 +39,18 @@ This is a web applcation built on react and fastapi. It takes an image of a dog 
    cd emotion-app
    npm start
 
+## Screenshots
+
+This is how the website should look once you have set up everything correctly.
+
+![Landing Page](home.png)
+
+*Caption: This is the landing page*
+
+![Upload Image ](imageupload.png)
+
+*Caption: This is the results page*
+
 ### Contributing
 
 If you'd like to contribute to this project, please follow the standard GitHub fork and pull request workflow.
